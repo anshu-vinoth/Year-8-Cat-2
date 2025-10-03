@@ -22,3 +22,6 @@ def count_letters (path):
 
 # run the program
 count_letters(".//1.DataStructures//1.1//data_structure_data.txt")
+
+
+
